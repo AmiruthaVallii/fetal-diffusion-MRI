@@ -20,3 +20,7 @@ Purpose: Extracting regions of interest - Subplate (SP), Ventricular Zone (VZ), 
 File: Calculate_average_values
 
 Purpose: Calculate mean intensity values from each region of interest and save to Excel file
+
+## Polynomial ridge regression
+
+## Z scores for subjects with Ventriculomegaly (VM)
